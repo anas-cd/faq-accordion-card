@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/anas-cd/faq-accordion-card](https://github.com/anas-cd/faq-accordion-card)
-- Live Site URL: [https://anas-cd.github.io/faq-accordion-card/index.html](https://anas-cd.github.io/faq-accordion-card/index.html)
+- Live Site URL: [https://anas-cd.github.io/faq-accordion-card/](https://anas-cd.github.io/faq-accordion-card/)
 
 ## My process
 
