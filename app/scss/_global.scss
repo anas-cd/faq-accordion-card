@@ -42,7 +42,7 @@ main {
     }
     .pic { 
         flex: 1 0 45%;
-        background-image: url("/images/bg-pattern-desktop.svg");
+        background-image: url("../images/bg-pattern-desktop.svg");
         background-size: auto;
         background-position-x: -570px;
         background-position-y: -293px;
@@ -60,7 +60,7 @@ main {
         }
         &::before {
             content: "";
-            background-image: url("/images/illustration-woman-online-desktop.svg");
+            background-image: url("../images/illustration-woman-online-desktop.svg");
             width: 100%;
             position: absolute;
             height: 100%;
@@ -75,9 +75,9 @@ main {
         &>img { 
             position: relative;
             transform: translate(-93px,213px);
-            content: url("/images/illustration-box-desktop.svg");
+            content: url("../images/illustration-box-desktop.svg");
             @media #{$mq-850-down} {
-                content: url("/images/illustration-woman-online-mobile.svg");
+                content: url("../images/illustration-woman-online-mobile.svg");
                 
                 transform: translate(-15px,-96px);
                 width: 237px;
